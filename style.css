@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img/texture-paper.webp");
     background-size: 280px 280px;
 }
 
@@ -705,7 +705,7 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 24px;
     line-height: 1.4em;
 }
 
@@ -810,19 +810,19 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("img/dots-bg.webp");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/lines-h2-bg.webp");
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img/la-chouette-agence-banniere.webp");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {
@@ -1008,7 +1008,7 @@ h4 {
         margin-top: 20px;
     }
     .voffset-lg {
-        margin-top: 30px;
+        margin-top: 0px;
     }
     form {
         padding: 5px;
@@ -1025,6 +1025,24 @@ h4 {
     .blocsapp-device-iphone5 img {
         width: 180px;
         height: 320px;
+    }
+
+    .portfolio-row{
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+
+    p{
+        margin: 0 0 20px;
+    }
+
+    h2{
+        margin: 0 0 20px;
+        font-size: 20px;
+    }
+
+    .no-margin{
+        margin: 0;
     }
 }
 
