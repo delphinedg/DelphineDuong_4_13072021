@@ -1026,23 +1026,16 @@ h4 {
         width: 180px;
         height: 320px;
     }
-
     .portfolio-row{
         margin-bottom: 0px;
         margin-top: 0px;
     }
-
     p{
         margin: 0 0 20px;
     }
-
     h2{
         margin: 0 0 20px;
         font-size: 20px;
-    }
-
-    .no-margin{
-        margin: 0;
     }
 }
 
