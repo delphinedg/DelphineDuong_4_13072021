@@ -1,1 +1,1 @@
-OpenClassrooms - Projet 4 : Amérlioration du référencement naturel du site La Chouette agence
+OpenClassrooms - Projet 4 : Amélioration du référencement naturel du site La Chouette agence
